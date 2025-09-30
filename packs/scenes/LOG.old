@@ -1,5 +1,7 @@
-2025/09/30-14:06:20.087 6374 Delete type=3 #1
-2025/09/30-14:06:58.041 5e44 Level-0 table #5: started
-2025/09/30-14:06:58.041 5e44 Level-0 table #5: 0 bytes OK
-2025/09/30-14:06:58.042 5e44 Delete type=0 #3
-2025/09/30-14:06:58.044 5e44 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/09/30-14:12:03.324 6374 Recovering log #4
+2025/09/30-14:12:03.328 6374 Delete type=0 #4
+2025/09/30-14:12:03.328 6374 Delete type=3 #2
+2025/09/30-15:48:45.619 5e44 Level-0 table #9: started
+2025/09/30-15:48:45.629 5e44 Level-0 table #9: 427326 bytes OK
+2025/09/30-15:48:45.630 5e44 Delete type=0 #7
+2025/09/30-15:48:45.632 5e44 Manual compaction at level-0 from '!scenes!7RVNJ93cUTpZvy24' @ 72057594037927935 : 1 .. '!scenes.walls!qrwgtuHtj2LW3MQz.zjCSJCPuLgw91tVo' @ 0 : 0; will stop at (end)
