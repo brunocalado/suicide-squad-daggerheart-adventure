@@ -1,7 +1,7 @@
 {
   "id": "suicide-squad-daggerheart-adventure",
   "title": "Suicide Squad (Daggerheart Adventure)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -55,7 +55,20 @@
       },
       "flags": {},
       "banner": "modules/suicide-squad-daggerheart-adventure/docs/banner.webp"    
-    }  
+    },
+    {
+      "label": "Playlist",
+      "type": "Playlist",
+      "name": "playlist",
+      "path": "packs/playlist",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "banner": "modules/suicide-squad-daggerheart-adventure/docs/banner.webp" 
+    }    
   ],
 
   "packFolders": [
@@ -66,7 +79,8 @@
       "packs": [
         "actors",
         "scenes",
-        "journals"
+        "journals",
+        "playlist"
       ],
       "folders": []
     }

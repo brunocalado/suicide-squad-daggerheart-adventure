@@ -1,0 +1,5 @@
+2025/10/01-10:12:44.766 7a0 Delete type=3 #1
+2025/10/01-10:15:17.337 30ac Level-0 table #5: started
+2025/10/01-10:15:17.338 30ac Level-0 table #5: 2169 bytes OK
+2025/10/01-10:15:17.339 30ac Delete type=0 #3
+2025/10/01-10:15:17.343 30ac Manual compaction at level-0 from '!playlists!XLa0wy4XtzVdpsJN' @ 72057594037927935 : 1 .. '!playlists.sounds!XLa0wy4XtzVdpsJN.xSi7sFBnR0YNJ6h4' @ 0 : 0; will stop at (end)

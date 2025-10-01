@@ -90,5 +90,7 @@ The maps are from Dungeon Alchemist and are under their license: https://www.dun
 
 The NPC images are done using AI. So, they are under https://creativecommons.org/publicdomain/zero/1.0/
 
+The music is made with AI. They are under https://help.suno.com/en/articles/2410177.
+
 # Mestre Digital
 About this module creator: https://sites.google.com/view/mestredigitalmodules
