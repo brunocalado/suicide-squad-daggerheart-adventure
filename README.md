@@ -71,7 +71,13 @@ All characters for this adventure begin at Level 4. This reflects your experienc
 https://raw.githubusercontent.com/brunocalado/suicide-squad-daggerheart-adventure/main/module.json
 
 # How To 
-Read the compendiums inside de module.
+Import the compendiums inside de module to the world.
+
+# More Adventures!
+## I Wish (Daggerheart Adventure)
+A wealthy merchant has been cursed and is doomed to die within a few weeks. The only hope of breaking the curse lies in a legendary artifact said to rest deep within a mountain. With time running out, the merchant is organizing one final expedition to retrieve the item—or die trying. He has summoned a group of remarkable individuals to undertake this perilous mission.
+
+Search for **I Wish (Daggerheart Adventure)** in Foundry VTT modules.
 
 # Changelog
 You can read changes at [CHANGELOG](CHANGELOG.md)
