@@ -1,7 +1,7 @@
 {
   "id": "suicide-squad-daggerheart-adventure",
   "title": "Suicide Squad (Daggerheart Adventure)",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -37,7 +37,7 @@
       "path": "packs/scenes",
       "system": "daggerheart",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       },
       "flags": {},
@@ -50,7 +50,7 @@
       "path": "packs/journals",
       "system": "daggerheart",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       },
       "flags": {},

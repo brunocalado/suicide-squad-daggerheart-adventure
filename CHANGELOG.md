@@ -1,3 +1,7 @@
+# 1.0.3
+- new song
+- compendiums are hide from players now 
+
 # 1.0.2
 - scenes fix and improvements
 - journal update

@@ -1,8 +1,23 @@
-2025/10/02-08:33:03.021 182c Recovering log #23
-2025/10/02-08:33:03.025 182c Delete type=0 #23
-2025/10/02-08:33:03.025 182c Delete type=3 #22
-2025/10/02-09:10:29.364 40a0 Level-0 table #27: started
-2025/10/02-09:10:29.364 40a0 Level-0 table #27: 0 bytes OK
-2025/10/02-09:10:29.365 40a0 Delete type=0 #25
-2025/10/02-09:10:29.365 40a0 Manual compaction at level-0 from '!playlists!XLa0wy4XtzVdpsJN' @ 72057594037927935 : 1 .. '!playlists.sounds!XLa0wy4XtzVdpsJN.xSi7sFBnR0YNJ6h4' @ 0 : 0; will stop at (end)
-2025/10/02-09:10:29.383 40a0 Manual compaction at level-1 from '!playlists!XLa0wy4XtzVdpsJN' @ 72057594037927935 : 1 .. '!playlists.sounds!XLa0wy4XtzVdpsJN.xSi7sFBnR0YNJ6h4' @ 0 : 0; will stop at (end)
+2025/10/09-08:50:50.646 790 Recovering log #67
+2025/10/09-08:50:50.646 790 Level-0 table #69: started
+2025/10/09-08:50:50.647 790 Level-0 table #69: 2234 bytes OK
+2025/10/09-08:50:50.650 790 Delete type=0 #67
+2025/10/09-08:50:50.650 790 Delete type=3 #66
+2025/10/09-09:18:44.228 4bbc Level-0 table #72: started
+2025/10/09-09:18:44.228 4bbc Level-0 table #72: 0 bytes OK
+2025/10/09-09:18:44.229 4bbc Delete type=0 #70
+2025/10/09-09:18:44.231 4bbc Manual compaction at level-0 from '!playlists!2rOV4SehJnJZ3esj' @ 72057594037927935 : 1 .. '!playlists.sounds!2rOV4SehJnJZ3esj.znGmCdNGppffTFDE' @ 0 : 0; will stop at '!playlists.sounds!XLa0wy4XtzVdpsJN.xSi7sFBnR0YNJ6h4' @ 4 : 0
+2025/10/09-09:18:44.231 4bbc Compacting 1@0 + 0@1 files
+2025/10/09-09:18:44.233 4bbc Generated table #73@0: 7 keys, 2234 bytes
+2025/10/09-09:18:44.234 4bbc Compacted 1@0 + 0@1 files => 2234 bytes
+2025/10/09-09:18:44.235 4bbc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/09-09:18:44.235 4bbc Delete type=2 #69
+2025/10/09-09:18:44.238 4bbc Manual compaction at level-0 from '!playlists.sounds!XLa0wy4XtzVdpsJN.xSi7sFBnR0YNJ6h4' @ 4 : 0 .. '!playlists.sounds!2rOV4SehJnJZ3esj.znGmCdNGppffTFDE' @ 0 : 0; will stop at (end)
+2025/10/09-09:18:44.240 4bbc Manual compaction at level-1 from '!playlists!2rOV4SehJnJZ3esj' @ 72057594037927935 : 1 .. '!playlists.sounds!2rOV4SehJnJZ3esj.znGmCdNGppffTFDE' @ 0 : 0; will stop at '!playlists.sounds!XLa0wy4XtzVdpsJN.xSi7sFBnR0YNJ6h4' @ 4 : 0
+2025/10/09-09:18:44.240 4bbc Compacting 1@1 + 1@2 files
+2025/10/09-09:18:44.241 4bbc Generated table #74@1: 4 keys, 2178 bytes
+2025/10/09-09:18:44.241 4bbc Compacted 1@1 + 1@2 files => 2178 bytes
+2025/10/09-09:18:44.241 4bbc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/09-09:18:44.241 4bbc Delete type=2 #5
+2025/10/09-09:18:44.242 4bbc Delete type=2 #73
+2025/10/09-09:18:44.247 4bbc Manual compaction at level-1 from '!playlists.sounds!XLa0wy4XtzVdpsJN.xSi7sFBnR0YNJ6h4' @ 4 : 0 .. '!playlists.sounds!2rOV4SehJnJZ3esj.znGmCdNGppffTFDE' @ 0 : 0; will stop at (end)

@@ -1,15 +1,8 @@
-2025/10/02-08:33:02.966 4878 Recovering log #40
-2025/10/02-08:33:02.971 4878 Delete type=0 #40
-2025/10/02-08:33:02.971 4878 Delete type=3 #39
-2025/10/02-09:10:29.342 40a0 Level-0 table #44: started
-2025/10/02-09:10:29.344 40a0 Level-0 table #44: 47190 bytes OK
-2025/10/02-09:10:29.345 40a0 Delete type=0 #42
-2025/10/02-09:10:29.345 40a0 Manual compaction at level-0 from '!actors!2YhSs1X5eLeAMCXE' @ 72057594037927935 : 1 .. '!folders!zGID8T66YmA7Z5rl' @ 0 : 0; will stop at (end)
-2025/10/02-09:10:29.345 40a0 Manual compaction at level-1 from '!actors!2YhSs1X5eLeAMCXE' @ 72057594037927935 : 1 .. '!folders!zGID8T66YmA7Z5rl' @ 0 : 0; will stop at '!folders!zGID8T66YmA7Z5rl' @ 178 : 1
-2025/10/02-09:10:29.345 40a0 Compacting 1@1 + 1@2 files
-2025/10/02-09:10:29.348 40a0 Generated table #45@1: 59 keys, 47173 bytes
-2025/10/02-09:10:29.348 40a0 Compacted 1@1 + 1@2 files => 47173 bytes
-2025/10/02-09:10:29.349 40a0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/10/02-09:10:29.349 40a0 Delete type=2 #14
-2025/10/02-09:10:29.349 40a0 Delete type=2 #44
-2025/10/02-09:10:29.365 40a0 Manual compaction at level-1 from '!folders!zGID8T66YmA7Z5rl' @ 178 : 1 .. '!folders!zGID8T66YmA7Z5rl' @ 0 : 0; will stop at (end)
+2025/10/09-08:50:50.596 1428 Recovering log #85
+2025/10/09-08:50:50.599 1428 Delete type=0 #85
+2025/10/09-08:50:50.599 1428 Delete type=3 #84
+2025/10/09-09:18:44.224 4bbc Level-0 table #89: started
+2025/10/09-09:18:44.224 4bbc Level-0 table #89: 0 bytes OK
+2025/10/09-09:18:44.226 4bbc Delete type=0 #87
+2025/10/09-09:18:44.231 4bbc Manual compaction at level-0 from '!actors!2YhSs1X5eLeAMCXE' @ 72057594037927935 : 1 .. '!folders!zGID8T66YmA7Z5rl' @ 0 : 0; will stop at (end)
+2025/10/09-09:18:44.235 4bbc Manual compaction at level-1 from '!actors!2YhSs1X5eLeAMCXE' @ 72057594037927935 : 1 .. '!folders!zGID8T66YmA7Z5rl' @ 0 : 0; will stop at (end)
